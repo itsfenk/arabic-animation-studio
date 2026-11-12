@@ -1,0 +1,196 @@
+{
+  "package": "arabic-animation-studio",
+  "version": "0.1.0",
+  "files": [
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 448,
+      "sha256": "fb73a415ac7c8f8903f1b4ef8a8e72016297a9ad87b4c8767206af6edce3e232"
+    },
+    {
+      "path": "INSTALL-CODEX.md",
+      "bytes": 1988,
+      "sha256": "fe34c595f929e457be2ca45bc77f5fb198ec2da583fef8ce56b0b796d7b350b4"
+    },
+    {
+      "path": "NOTICE.md",
+      "bytes": 858,
+      "sha256": "20b2dfe1064ea27a83138d692b35b736efa62e445b4bd34b2929fc413d9f7d30"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4655,
+      "sha256": "2e6d275b987b51956b349c6626e9f3f10bcadc61a6cb8f5001df30019ace476a"
+    },
+    {
+      "path": "SKILL.md",
+      "bytes": 13154,
+      "sha256": "d1cd9b8491df621cdc2286f739e333e1cd79801065b35fb0b12c51587902bb9a"
+    },
+    {
+      "path": "examples/claim-ledger-example.md",
+      "bytes": 590,
+      "sha256": "e60ab04a5e7bc5a5b43c0e550a4867dd1f1334f9d9fecde12e1cbfdb32c4e084"
+    },
+    {
+      "path": "examples/project-intake-example.md",
+      "bytes": 599,
+      "sha256": "d67c08bd1d715df288194554b7ac71574d6a21ab2f24f34ffd98e49d5e500a3d"
+    },
+    {
+      "path": "references/arabic-language-and-voice.md",
+      "bytes": 2890,
+      "sha256": "c13d55909efd2bd5d7d4b3ba5adee36aee6b585dee8221bed9683320b9456a97"
+    },
+    {
+      "path": "references/character-and-world-continuity.md",
+      "bytes": 1578,
+      "sha256": "f182d92f5d7d3d6958d4bbaad3ce896f79c1c362ec8892a9eec192d5fc9e78b2"
+    },
+    {
+      "path": "references/engine-integration.md",
+      "bytes": 4575,
+      "sha256": "8abb0a36f197880b843e6338e1d66c5e4d4d0fcb47c36713e4f0fad9243dd6fc"
+    },
+    {
+      "path": "references/historical-and-heritage.md",
+      "bytes": 2143,
+      "sha256": "1131021e3d415366b1141fc30c850d2b8740537d04861b0037543d41745c075b"
+    },
+    {
+      "path": "references/platform-and-delivery.md",
+      "bytes": 1527,
+      "sha256": "a2973b95119a4d3da624dd1b96c96423a950236c93e460a16215e55b1b6b201b"
+    },
+    {
+      "path": "references/quality-control.md",
+      "bytes": 2280,
+      "sha256": "d52057b9f14c3c5682394dc5eb4c9942f735110fa5202c85e5d308a5fbbda5c8"
+    },
+    {
+      "path": "references/religious-content-policy.md",
+      "bytes": 4619,
+      "sha256": "c08343f3672edf12fa3122e7906813cbffec2d391423199c11399e1fd2389a67"
+    },
+    {
+      "path": "references/rights-and-responsible-media.md",
+      "bytes": 1176,
+      "sha256": "c65987250c80760649910a66a6e669d51719bc2f50cf878557dcc942f04a0cce"
+    },
+    {
+      "path": "references/sound-and-postproduction.md",
+      "bytes": 1868,
+      "sha256": "6e68126982402574ea1ca46de1ee5adfbb18654de06181992cc6181a36e4a0d7"
+    },
+    {
+      "path": "references/source-ingestion.md",
+      "bytes": 3290,
+      "sha256": "3128d500e6a7a850150649d4d3cb19465a08a4f76e46d192c14ac63fd6dc0a35"
+    },
+    {
+      "path": "references/storyboard-and-shot-planning.md",
+      "bytes": 1616,
+      "sha256": "85bd41be4775f87e8033bf70d8d73464c286aa3f9413ab25b3de8bd53ca2c7a0"
+    },
+    {
+      "path": "references/storytelling-frameworks.md",
+      "bytes": 2558,
+      "sha256": "2bed668201e00bf97aff29f382dfa496fa5a982e8c0bf65bccb9f1861bf97e96"
+    },
+    {
+      "path": "references/verification-protocol.md",
+      "bytes": 2557,
+      "sha256": "00104a2842d6079a2a3ac84c272e781d3374f73e96e63fac13a2a45b7fcbbd11"
+    },
+    {
+      "path": "references/visual-direction.md",
+      "bytes": 2217,
+      "sha256": "6f9a8bc2ca20be1037d8c2f7971612afce681b723749ae37c180285945ffc1e6"
+    },
+    {
+      "path": "templates/asset-register.csv",
+      "bytes": 179,
+      "sha256": "a0babeb954778667a2c2ab06f2dbffd5c3f9e2dc6c64a7a3c0482655bccec570"
+    },
+    {
+      "path": "templates/claim-ledger.csv",
+      "bytes": 185,
+      "sha256": "debcb1c244ba4cee3425629db52c19d8987e99883b624238863e7b58ac1a16e8"
+    },
+    {
+      "path": "templates/final-qa.md",
+      "bytes": 835,
+      "sha256": "0ccc56ca69ac54e2feea79cd4330c97d24c8c6b69ddde67c3315b5302c839574"
+    },
+    {
+      "path": "templates/production-report.md",
+      "bytes": 328,
+      "sha256": "b7d2eeb27cbe7c4c44d5992f40fc486795fae241303e9ed6ec02c1e9f73bd71d"
+    },
+    {
+      "path": "templates/project-brief.md",
+      "bytes": 1447,
+      "sha256": "42b1dba8910740d2803094c815d67b0e69e6a4b86a0e9a10c548f063733c4a15"
+    },
+    {
+      "path": "templates/script-template.md",
+      "bytes": 707,
+      "sha256": "dba2d7c0ae69d5ad666bf8caa2e2c2a5171c62f5a3125c1086323d9e5356c9e6"
+    },
+    {
+      "path": "templates/shot-list.csv",
+      "bytes": 208,
+      "sha256": "041ce7b132e2d706f7914017c06623d66fb4d5f30f634a183c69359560dea6ae"
+    },
+    {
+      "path": "templates/source-register.csv",
+      "bytes": 217,
+      "sha256": "5eded247d793137f747e62c783cdb385911c019134991fcc57f7b0344226e2c1"
+    },
+    {
+      "path": "templates/storyboard-review.md",
+      "bytes": 470,
+      "sha256": "13dda32f849eea04eacf74c6c24c333171228408425c8a2c23ca35c66f42e939"
+    },
+    {
+      "path": "tests/manual-evaluation-cases.md",
+      "bytes": 2548,
+      "sha256": "28e1611ac78189237937cac4f47c06fdd69ef0e04d643c2f66839971cf37884c"
+    },
+    {
+      "path": "workflows/educational-and-explainer.md",
+      "bytes": 697,
+      "sha256": "fbb60f5b28f38aca59788e1c29618a2220214bd05584ffa523e29c6fee18251d"
+    },
+    {
+      "path": "workflows/fiction-and-what-if.md",
+      "bytes": 794,
+      "sha256": "7c4fc57a6da01d409d33030196c04e80d613c251699324295cd8243b2207ce0b"
+    },
+    {
+      "path": "workflows/heritage-and-folklore.md",
+      "bytes": 849,
+      "sha256": "b6dfdbfc370029fbcb3f36e13f885afaa65fce61dc76dd58eb397a9d1041534d"
+    },
+    {
+      "path": "workflows/historical-documentary.md",
+      "bytes": 948,
+      "sha256": "8f6b33eb2af0a412c003f90fe43ef7cd2a02b6fb0ee1dd15e307530231dad74c"
+    },
+    {
+      "path": "workflows/long-form-video.md",
+      "bytes": 816,
+      "sha256": "ac3278bd6b07cf77ee27514df737dab7e429b47351b65fab1ba4e8b92f637771"
+    },
+    {
+      "path": "workflows/religious-story.md",
+      "bytes": 1188,
+      "sha256": "2bd25c1c5e8e3e9a7d5e358e5423f13481df6bcc8f45248ad36ce2044aa11ea2"
+    },
+    {
+      "path": "workflows/short-form-video.md",
+      "bytes": 674,
+      "sha256": "bf466f375c462d280ee442bd07095ef26db282b92aa9576f78e7c93d8ac1ef1c"
+    }
+  ]
+}
